@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.username {
+    padding-right: 30px;
+    font-size: 18px;
+    color: #aaaaaa;
+
+}
+
+.btn{
+    background: none;
+    height: 40px;
+    border: none;
+    text-align: center;
+    font-size: 1rem;
+    color: whitesmoke;
+    background-color: #fa709a;
+    padding: 0.8rem 1.8rem;
+    border-radius: 2rem;
+    cursor: pointer;
+}

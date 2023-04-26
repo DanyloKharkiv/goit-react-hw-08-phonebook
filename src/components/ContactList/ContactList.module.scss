@@ -1,0 +1,33 @@
+.list {
+    padding-left: 0px;
+    list-style: none;
+}
+
+.label {
+    font-size: 17px;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 0px;
+    list-style: none;
+}
+
+.button {
+
+    border: none;
+    text-align: center;
+    font-size: 1rem;
+    color: whitesmoke;
+    background-color: #fa709a;
+    padding: 0.8rem 1.8rem;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
+.button:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 5px 0px #f10e0e;
+}
